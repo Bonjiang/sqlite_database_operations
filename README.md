@@ -15,7 +15,7 @@ I conducted the same process for both datasets. First, I wanted a data overview 
 
 ### Instructions to replicate my SQLite database setup
 
- 
+ To create a temporary and local DB using SQLITE,
 
 Recovery Services Backup Management Library **‘azure-mgmt-recoveryservicesbackup'**  
 
